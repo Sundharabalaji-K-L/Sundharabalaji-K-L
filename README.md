@@ -63,7 +63,7 @@ Hello! I'm Sundharabalaji K L, a driven software developer with hands-on experie
 ## 📫 Contact
 
 - **Email:** [sundharabalajikl@gmail.com](mailto:sundharabalajikl@gmail.com)
-- **LinkedIn:** [linkedin.com/in/sundharabalaji](https://www.linkedin.com/in/sundharabalaji/)
+- **LinkedIn:** [Sundharabalaji K L](https://www.linkedin.com/in/sundharabalaji/)
 - **GitHub:** [Sundharabalaji-K-L](https://github.com/Sundharabalaji-K-L)
 
 ---
