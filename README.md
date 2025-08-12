@@ -8,8 +8,6 @@
 
 Hello! I'm Sundharabalaji K L, a driven software developer with hands-on experience in full-stack development, cloud infrastructure, and CI/CD automation. I’m passionate about building scalable applications, automating workflows, and delivering reliable software solutions.
 
-I'm open to contributing to open-source projects and collaborating on exciting new ideas!
-
 ---
 
 ## 🛠️ Skills
@@ -18,7 +16,7 @@ I'm open to contributing to open-source projects and collaborating on exciting n
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/><br>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/><br>FastAPI</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/hashicorp/terraform-website/main/.resources/logo-vertical.svg" width="40" alt="Terraform"/><br>Terraform</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/><br>Terraform</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/><br>Docker</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/><br>Jenkins</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/><br>Git</td>
@@ -69,7 +67,7 @@ I'm open to contributing to open-source projects and collaborating on exciting n
 
 ## 📫 Contact
 
-- **Email:** sundharabalajikl@gmail.com
+- **Email:** [sundharabalajikl@gmail.com](mailto:sundharabalajikl@gmail.com)
 - **LinkedIn:** [linkedin.com/in/sundharabalaji](https://www.linkedin.com/in/sundharabalaji/)
 - **GitHub:** [Sundharabalaji-K-L](https://github.com/Sundharabalaji-K-L)
 
