@@ -37,13 +37,9 @@ Hello! I'm Sundharabalaji K L, a driven software developer with hands-on experie
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/><br>Java</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/><br>Django</td>
   </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt="ASP.NET"/><br>ASP.NET</td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/38701839?s=200&v=4" width="40" alt="Playwright"/><br>Playwright</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/WillKoehrsen/Data-Analysis/master/assets/pandas.png" width="40" alt="Pandas"/><br>Pandas</td>
+  <tr></tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/><br>HTML</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/><br>CSS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/rest-api/rest-api.png" width="40" alt="REST APIs"/><br>REST APIs</td>
   </tr>
 </table>
 
