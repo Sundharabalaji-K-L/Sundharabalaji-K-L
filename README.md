@@ -8,8 +8,6 @@
 
 Hello! I'm Sundharabalaji K L, a driven software developer with hands-on experience in full-stack development, cloud infrastructure, and CI/CD automation. I’m passionate about building scalable applications, automating workflows, and delivering reliable software solutions.
 
-I'm open to contributing to open-source projects and collaborating on exciting new ideas!
-
 ---
 
 ## 🛠️ Skills
