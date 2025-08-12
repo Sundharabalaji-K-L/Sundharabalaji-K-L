@@ -49,7 +49,6 @@ Hello! I'm Sundharabalaji K L, a driven software developer with hands-on experie
 
 <div align="center" style="position: relative; margin-bottom: 20px;">
   <!-- Decorative SVG Divider -->
-  <img src="https://raw.githubusercontent.com/Sundharabalaji-K-L/Sundharabalaji-K-L/output/github-contribution-grid-snake.svg" alt="github-snake" width="100%" />
 
   <!-- Stats Cards in a Row -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
