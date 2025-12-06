@@ -51,7 +51,7 @@ Hello! I'm Sundharabalaji K L, a driven software developer with hands-on experie
   <!-- Decorative SVG Divider -->
 
  <!-- Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sundharabalaji-K-L&show_icons=true&theme=aura&border_radius=12&title_color=cb5eee&bg_color=0,0d1117,232526&hide_border=true" alt="Sundharabalaji's GitHub stats" height="180"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sundharabalaji-K-L&theme=midnight-purple&hide_border=true&border_radius=12" alt="GitHub Streak" height="180"/>
  
    
